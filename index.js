@@ -1,3 +1,4 @@
+// Para ejecutar el archivo correr el comando node y el nombre del archivo Ejemplo: node index.js
 var cadena='aabacbaa';
 var cadenaNueva='';
 
